@@ -109,6 +109,10 @@ That's it for this lesson. In the next lessons we'll learn how to deploy the sma
 
 ---
 
+### Can compile directly to Go code
+
+`abigen --sol helloworld.sol --pkg main --out helloworld.go`
+
 ### Full code
 
 Commands
